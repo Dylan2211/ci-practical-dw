@@ -1,2 +1,8 @@
-# ci-practical-dw
-A guided CI practical using Python and GitHub Actions.
+# CI Practical — DW
+
+Student initials: DW
+
+This repository demonstrates automated testing with GitHub Actions.
+
+Starting version: five calculator tests.
+Final required version: seven calculator tests, including multiplication.
